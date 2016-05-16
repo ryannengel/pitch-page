@@ -14,11 +14,16 @@ body{
 }
 
 h1,
-h3{  
+h3,
+{  
   color: white;
 }
 
 h3{
-  border-bottom: white solid 3px;
-  
+  padding-bottom: 2%;
+  border-bottom: white solid 1.5px;
+}
+
+p {
+  color: white;
 }
