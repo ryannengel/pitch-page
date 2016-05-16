@@ -43,6 +43,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/img\/bug.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.42474e+06,
+		"inputAbbreviatedPath": "\/img\/bug.png",
+		"outputAbbreviatedPath": "\/img\/bug.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/flags.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -61,6 +72,28 @@
 		"initialSize": 456094,
 		"inputAbbreviatedPath": "\/img\/me.jpg",
 		"outputAbbreviatedPath": "\/img\/me.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/michael.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.88045e+07,
+		"inputAbbreviatedPath": "\/img\/michael.png",
+		"outputAbbreviatedPath": "\/img\/michael.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/signal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 648864,
+		"inputAbbreviatedPath": "\/img\/signal.png",
+		"outputAbbreviatedPath": "\/img\/signal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
