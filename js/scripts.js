@@ -8,4 +8,3 @@
 // @codekit-prepend "plugins.js";
 
 // My Scripts
-$('h1').text('Code Ha');
