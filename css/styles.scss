@@ -1,10 +1,12 @@
 
 @import 'semantic';
+@import url(https://fonts.googleapis.com/css?family=Anton|Quicksand);
 
 /* My Styles */
 
 body{
   background: #996666;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .footer {
@@ -29,6 +31,8 @@ h1,
 h3,
 {  
   color: white;
+  letter-spacing: 1px;
+  font-family: 'Anton', sans-serif;
 }
 
 .designer{
